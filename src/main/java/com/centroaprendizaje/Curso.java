@@ -7,5 +7,8 @@ public class Curso {
     private String nombre;
     private boolean estadoDisponible;
     private ArrayList<Foro> foros;
+    private ArrayList<Estudiante> estudiantesEnEsperaDeInscripcion;
+    private ArrayList<Estudiante> estudiantesInscritos;
+    private ArrayList<ActividadSumativa> actividadesSumativas;
 
 }   
